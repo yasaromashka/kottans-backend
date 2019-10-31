@@ -1,4 +1,4 @@
 # kottans-backend
 
 ## Unix Shell
-![youtube-CC-guide](../Screenshot_1.png)
+![youtube-CC-guide](../task_unix_shell/Screenshot_1.png)
