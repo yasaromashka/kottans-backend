@@ -12,3 +12,5 @@
 
 ## Git Collaboration
 ![screen](/task_git_collaboration/Screenshot_2.png)
+
+* I tried to do something on remote repo on Github, when complete "Git Basics", but don't understand what is forking, how it works. Now I knows)
