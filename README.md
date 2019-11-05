@@ -11,4 +11,4 @@
 
 
 ## Git Collaboration
-![screen](/task_git_collaboration/Screenshot_1.png)
+![screen](/task_git_collaboration/Screenshot_2.png)
